@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Harikrishna
-- Studying AI engineerting in Amrita Vishwa Vidhyapeetham
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Development
-- 📫 How to reach me -- hari3032003@gmail.com
+# 👋 Hi, I’m Harikrishna
+Studying AI engineerting in Amrita Vishwa Vidhyapeetham
+### Acheivements
+- Google Summer of Google 2022 @ incf <a href="https://github.com/Harikrishna-AL/GSoC_sub">(link)</a>
+### Current Status
+- Expoloring ML
+- 🤿 Diving deep into Deep learning
+- 📱 I’m a Android Developer
+
+### 📫 How to reach me 
+- hari3032003@gmail.com
+- <a href="https://t.me/Dragonixx_03">Telegram</a>
+
 
 <!---
 Harikrishna-AL/Harikrishna-AL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
