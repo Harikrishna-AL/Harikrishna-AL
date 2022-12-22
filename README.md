@@ -2,13 +2,13 @@
 <a href="https://harikrishna-al.github.io/myBlog/" class="button">Blog</a>
 
 
-Studying AI engineerting in Amrita Vishwa Vidhyapeetham
+Studying AI engineering in Amrita Vishwa Vidhyapeetham
 ### Acheivements
 - Google Summer of Google 2022 @ incf <a href="https://github.com/Harikrishna-AL/GSoC_sub">(link)</a>
 ### Current Status
-- Expoloring ML
+- Exploring ML
 - 🤿 Diving deep into Deep learning
-- 📱 I’m a Android Developer
+- 📱 I’m an Android Developer
 
 ### 📫 How to reach me 
 - hari3032003@gmail.com
