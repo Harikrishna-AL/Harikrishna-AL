@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Harikrishna
 <a href="https://harikrishna-al.github.io/myBlog/" class="button">Blog</a>
+<a href="https://harikrishna-al.github.io/notes/" class="button">Notes</a>
 
-
-Studying AI engineering in Amrita Vishwa Vidhyapeetham
 ### Acheivements
 - Google Summer of Google 2022 @ incf <a href="https://github.com/Harikrishna-AL/GSoC_sub">(link)</a>
 ### Current Status
-- Exploring ML
+- Exploring NeRFs now (Neural Radience Fields) to reconstruct 3d models.
+- Love Generative models
 - 🤿 Diving deep into Deep learning
 - 📱 I’m an Android Developer
 
