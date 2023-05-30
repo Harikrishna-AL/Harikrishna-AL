@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Harikrishna
 <a href="https://harikrishna-al.github.io/myBlog/" class="button">Blog</a>
 <a href="https://harikrishna-al.github.io/notes/" class="button">Notes</a>
+![Profile Views](https://komarev.com/ghpvc/?username=Harikrishna-AL)
 
 ### Acheivements
 - Google Summer of Google 2022 @ incf <a href="https://github.com/Harikrishna-AL/GSoC_sub">(link)</a>
