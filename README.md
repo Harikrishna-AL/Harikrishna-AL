@@ -7,7 +7,8 @@
 ### Acheivements
 - Google Summer of Google 2022 @ incf <a href="https://github.com/Harikrishna-AL/GSoC_sub">(link)</a>
 ### Current Status
-- Exploring LLMs
+- Understanding the workings of Collective Intelligence
+- Love making LLMs useful
 - Exploring NeRFs now (Neural Radience Fields) to reconstruct 3d models.
 - Love Generative models
 - 🤿 Diving deep into Deep learning
