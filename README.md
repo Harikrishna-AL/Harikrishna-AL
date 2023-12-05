@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Harikrishna
-<a href="https://harikrishna-al.github.io/myBlog/" class="button">Blog</a>
-<a href="https://harikrishna-al.github.io/notes/" class="button">Notes</a>
-<br>
+[![notes](https://img.shields.io/twitter/url?color=Black&label=Notes&style=flat-square&url=https%3A%2F%2Fmayukhdeb.github.io%2Fnotes%2F)](https://harikrishna-al.github.io/notes/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Harikrishna-AL)
 
 ### Acheivements
