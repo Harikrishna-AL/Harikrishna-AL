@@ -2,7 +2,7 @@
 [![notes](https://img.shields.io/twitter/url?color=Black&label=Notes&style=flat-square&url=https%3A%2F%2Fmayukhdeb.github.io%2Fnotes%2F)](https://harikrishna-al.github.io/notes/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Harikrishna-AL)
 
-### Acheivements
+### Achievements
 - Google Summer of Google 2022 @ incf <a href="https://github.com/Harikrishna-AL/GSoC_sub">(link)</a>
 ### Current Status
 - Understanding the workings of Collective Intelligence
