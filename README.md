@@ -4,13 +4,18 @@
 
 ### Achievements
 - Google Summer of Google 2022 @ incf <a href="https://github.com/Harikrishna-AL/GSoC_sub">(link)</a>
+### Experience
+- Intern at <a href="https://insynkstudios.com/">InSynk Studios</a>
+- Intern at <a href="https://aveta.ai/">InSynk Studios</a>
 ### Current Status
-- Understanding the workings of Collective Intelligence
-- Love making LLMs useful
-- Exploring NeRFs now (Neural Radience Fields) to reconstruct 3d models.
+- Researching on the intersection of AI and Neurscience. 
+- Interested in Nature-inspired Intelligence.
+- Love building useful products using AI.
+<!--- - Exploring NeRFs now (Neural Radience Fields) to reconstruct 3d models.
 - Love Generative models
 - 🤿 Diving deep into Deep learning
 - 📱 I’m an Android Developer
+--->
 
 ### 📫 How to reach me 
 - hari3032003@gmail.com
