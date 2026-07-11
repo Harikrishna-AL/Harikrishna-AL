@@ -5,6 +5,8 @@
 ### Achievements
 - Google Summer of Google 2022 @ incf <a href="https://github.com/Harikrishna-AL/GSoC_sub">(link)</a>
 ### Experience
+- Research Intern @ <a href="https://lossfunk.com/">Lossfunk</a>
+- Research @ <a href="https://shervinsafavi.github.io/cmclab/">CMC Lab</a> 
 - Intern at <a href="https://insynkstudios.com/">InSynk Studios</a>
 - Intern at <a href="https://aveta.ai/">Aveta.ai</a>
 ### Current Status
